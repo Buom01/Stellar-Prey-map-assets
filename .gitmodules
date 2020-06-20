@@ -1,0 +1,9 @@
+[submodule "map-UTCSUD"]
+	path = map-UTCSUD
+	url = https://github.com/GrangerHub/UTCSUD-map.git
+[submodule "map-eXcs"]
+	path = map-eXcs
+	url = https://github.com/GrangerHub/eXcs-map.git
+[submodule "eX-texture-pack"]
+	path = eX-texture-pack
+	url = https://github.com/GrangerHub/eX-texture-pack.git
